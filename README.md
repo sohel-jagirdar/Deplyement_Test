@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To setup CI/CD pipeline in cloud we need 3 info
 
 1. HEROKU_EMAIL= sohel.jahagirdar@sptr.co
@@ -10,3 +11,7 @@ docker build -t <image name> : <tagname>
 
 '''
 Note : Image name for docker in lower case
+=======
+# Deployment_Test
+Testing Deployment Pipeline for ML using Flask, Github Action , Docker
+>>>>>>> edd845f41b1a681647b7c89567b7d013022f225d
